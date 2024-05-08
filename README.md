@@ -9,7 +9,7 @@ A generative adversarial network (GAN) is a deep learning architecture that trai
     - 2.1. Generator submodel
     - 2.2. Discriminator submodel
 
-![GAN Architecture](image.png)
+![GAN Architecture](documentation/image.png)
 
 Reference: [TensorFlow Tutorial on DCGAN](https://www.tensorflow.org/tutorials/generative/dcgan)
 
